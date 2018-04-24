@@ -1,0 +1,19 @@
+终于听见下雨的声音
+
+
+
+
+vim readme03.txt
+git add readme03.txt
+git status
+
+vim readme03.txt
+git add readme03.txt
+git status
+
+git commit -m "git trackes changes"
+
+
+
+
+git diff HEAD -- readme03.txt 
