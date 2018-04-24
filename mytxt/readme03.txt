@@ -15,7 +15,7 @@ git commit -m "git trackes changes"
 
 
 git diff readme03.txt
-
+2018年4月24日09:20:23：today is rainy day feel:bad
 
 
 git diff HEAD -- readme03.txt 
