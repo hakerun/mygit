@@ -14,6 +14,8 @@ git status
 git commit -m "git trackes changes"
 
 
+git diff readme03.txt
+
 
 
 git diff HEAD -- readme03.txt 
